@@ -136,8 +136,7 @@ margin-right:3rem ;
     min-height:400px;
          display: flex;
     align-items: center;
-    /* margin-top:4rem !important ; */
-    border-radius: 0.5rem;
+       border-radius: 0.5rem;
 }
 .home-img{
     position: absolute;
