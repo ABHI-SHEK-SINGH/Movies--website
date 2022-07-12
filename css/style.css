@@ -316,7 +316,7 @@ font-weight: 700;
     padding:20px;
     position: relative;
     bottom:40px;
-    font-size:2rem;
+    font-size:1rem;
 }
 .play-container{
     position: relative;
@@ -544,11 +544,10 @@ margin-inline-start:3rem ;
              }
  .social .bx{
     padding: 4px;
-    font-size: 2.5rem;
+    font-size: 1.9rem;
     position: relative;
-    left:1600px;
- 
-    top: 50px;
+    left:1200px;
+     top: 50px;
     border-radius:5px ;
     color:rgb(204, 195, 22);
         }
@@ -613,20 +612,7 @@ margin-inline-start:3rem ;
  .g{
     align-items: center;
         position: absolute;
-       padding-top:110px ;
+       padding-top:60px ;
     padding-left: 850px;
-    font-size: 2rem;
+    font-size: 1rem;
  }
- .j{
-   padding-bottom:10px ;
-  padding-left: 1600px;
-  margin-top: 100px;
-    font-size: 2rem;
-    position:grid;
-        border-radius:5px ;
-        align-items: center;
-   }
-.k{
-    color:rgb(204, 195, 22);
-    font-size: 2.5rem;
-}
