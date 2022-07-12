@@ -543,7 +543,7 @@ margin-inline-start:3rem ;
         align-items: center;
              }
  .social .bx{
-    padding: 4px;
+/*     padding: 4px; */
     font-size: 1.9rem;
     position: relative;
     left:1200px;
