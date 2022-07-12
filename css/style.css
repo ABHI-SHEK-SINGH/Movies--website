@@ -576,7 +576,8 @@ margin-inline-start:3rem ;
     align-items: center;
    padding-right:0;
  padding-left:0 ;
- padding-bottom:400px ;
+/*  padding-bottom:400px ; */
+    margin-bottom:-80px;
  align-items: center;
  
 }
