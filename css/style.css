@@ -316,6 +316,7 @@ font-weight: 700;
     padding:20px;
     position: relative;
     bottom:40px;
+    font-size:2rem;
 }
 .play-container{
     position: relative;
